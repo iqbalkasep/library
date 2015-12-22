@@ -1,4 +1,4 @@
-package com.iqbal.library.viewutilities;
+package com.iqbal.library;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
