@@ -32,7 +32,11 @@ ViewUtilities.setVisible(View...views);
 ViewUtilities.setGone(View...views);
 ViewUtilities.setInvisible(View...views);
 
-#MovingAnimationDrawable
+#MovingAnimationDrawable Class
+
+This class for animation purpose with xml drawable 
+
+
 
 
 
