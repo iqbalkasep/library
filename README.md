@@ -37,7 +37,8 @@ ViewUtilities.setInvisible(View...views);
 This class for animation purpose with xml drawable 
 
 
-
+#Contact Me
+iqbal.pribadi@yahoo.com
 
 
 
